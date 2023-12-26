@@ -1,0 +1,17 @@
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\bin\Debug\net6.0\DotnetYuzuncuYil.Repo.deps.json
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\bin\Debug\net6.0\DotnetYuzuncuYil.Repo.runtimeconfig.json
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\bin\Debug\net6.0\DotnetYuzuncuYil.Repo.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\bin\Debug\net6.0\DotnetYuzuncuYil.Repo.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.csproj.AssemblyReference.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.AssemblyInfoInputs.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.AssemblyInfo.cs
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.csproj.CopyComplete
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\refint\DotnetYuzuncuYil.Repo.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\DotnetYuzuncuYil.Repo.genruntimeconfig.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Repo\obj\Debug\net6.0\ref\DotnetYuzuncuYil.Repo.dll

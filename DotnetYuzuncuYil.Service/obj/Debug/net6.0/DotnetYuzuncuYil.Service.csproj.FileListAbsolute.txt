@@ -1,0 +1,17 @@
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\bin\Debug\net6.0\DotnetYuzuncuYil.Service.deps.json
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\bin\Debug\net6.0\DotnetYuzuncuYil.Service.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\bin\Debug\net6.0\DotnetYuzuncuYil.Service.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\bin\Debug\net6.0\DotnetYuzuncuYil.Repo.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\bin\Debug\net6.0\DotnetYuzuncuYil.Repo.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\DotnetYuzuncuYil.Service.csproj.AssemblyReference.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\DotnetYuzuncuYil.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\DotnetYuzuncuYil.Service.AssemblyInfoInputs.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\DotnetYuzuncuYil.Service.AssemblyInfo.cs
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\DotnetYuzuncuYil.Service.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\DotnetYuzuncuYil.Service.csproj.CopyComplete
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\DotnetYuzuncuYil.Service.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\refint\DotnetYuzuncuYil.Service.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\DotnetYuzuncuYil.Service.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Service\obj\Debug\net6.0\ref\DotnetYuzuncuYil.Service.dll

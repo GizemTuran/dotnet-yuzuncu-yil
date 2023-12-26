@@ -1,0 +1,11 @@
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.deps.json
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\bin\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.AssemblyInfoInputs.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.AssemblyInfo.cs
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.csproj.CoreCompileInputs.cache
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\refint\DotnetYuzuncuYil.Core.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\DotnetYuzuncuYil.Core.pdb
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.Core\obj\Debug\net6.0\ref\DotnetYuzuncuYil.Core.dll

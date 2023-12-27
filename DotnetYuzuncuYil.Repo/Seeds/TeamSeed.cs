@@ -16,7 +16,7 @@ namespace DotnetYuzuncuYil.Repo.Seeds
             builder.HasData(
                 new Team { Id = 1, TeamName = "Development", CreatedDate = DateTime.Now },
                 new Team { Id = 2, TeamName = "Sales", CreatedDate = DateTime.Now },
-                new Team { Id = 3, TeamName = "Marketin", CreatedDate = DateTime.Now },
+                new Team { Id = 3, TeamName = "Marketing", CreatedDate = DateTime.Now },
                 new Team { Id = 4, TeamName = "HR", CreatedDate = DateTime.Now }
                 );
         }

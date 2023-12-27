@@ -36,7 +36,7 @@ namespace DotnetYuzuncuYil.Repo.Repositories
             return _dbSet.AsNoTracking().AsQueryable();
         }
 
-        public async Task<T> GetByIdAsync(int id) //tekrar sor
+        public async Task<T> GetByIdAsync(int id) 
         {
            return await _dbSet.FindAsync(id);
         }

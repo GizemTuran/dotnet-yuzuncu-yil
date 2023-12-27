@@ -1,10 +1,11 @@
-﻿using DotnetYuzuncuYil.Core.Services;
+﻿using DotnetYuzuncuYil.Core.Repositories;
+using DotnetYuzuncuYil.Core.Services;
 using DotnetYuzuncuYil.Core.UnitOfWorks;
 using DotnetYuzuncuYil.Repo;
 using DotnetYuzuncuYil.Repo.Repositories;
 using DotnetYuzuncuYil.Repo.UnitOfWorks;
-using DotnetYuzuncuYil.Service;
 using DotnetYuzuncuYil.Service.Mapping;
+using DotnetYuzuncuYil.Service.Services;
 using DotnetYuzuncuYil.Service.Validations;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
@@ -19,9 +20,11 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
-builder.Services.AddScoped(typeof(GenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
 builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
 builder.Services.AddAutoMapper(typeof(MapProfile));
+builder.Services.AddScoped<ITeamService, TeamService>();
+
 builder.Services.AddControllers()
     .AddFluentValidation(x =>
     {

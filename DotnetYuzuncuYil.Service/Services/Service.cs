@@ -9,7 +9,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DotnetYuzuncuYil.Service
+namespace DotnetYuzuncuYil.Service.Services
 {
 
     public class Service<T> : IService<T> where T : class
@@ -67,6 +67,6 @@ namespace DotnetYuzuncuYil.Service
         public IQueryable<T> Where(Expression<Func<T, bool>> expression)
         {
             return _repository.Where(expression);
-         }
+        }
     }
 }

@@ -9,7 +9,6 @@ namespace DotnetYuzuncuYil.Core.Services
 {
     public interface ITeamService:IService<Team>
     {
-        string GetByUserName(int id);
 
     }
 }

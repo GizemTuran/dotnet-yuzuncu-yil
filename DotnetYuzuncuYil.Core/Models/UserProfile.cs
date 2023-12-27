@@ -16,10 +16,10 @@ namespace DotnetYuzuncuYil.Core.Models
 
         //foreign key
         public int UserId { get; set; }
-        public int TeamId { get; set; }
+        //public int TeamId { get; set; }
         //birebir ilişki
         //bir kullanıcının bir profili ve bir takımı olacağından aşağıdaki implementasyonlar yapılır.
         public User User { get; set; }
-        public Team Team { get; set; }
+        //public Team Team { get; set; }
     }
 }

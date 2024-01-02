@@ -74,3 +74,4 @@ C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6
 C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\gizem\source\repos\DotnetYuzuncuYil\DotnetYuzuncuYil.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

@@ -1,4 +1,5 @@
-﻿using DotnetYuzuncuYil.Core.Repositories;
+﻿using DotnetYuzuncuYil.API.Abstraction;
+using DotnetYuzuncuYil.Core.Repositories;
 using DotnetYuzuncuYil.Core.Services;
 using DotnetYuzuncuYil.Core.UnitOfWorks;
 using DotnetYuzuncuYil.Repo;
@@ -25,13 +26,10 @@ builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
 builder.Services.AddAutoMapper(typeof(MapProfile));
 builder.Services.AddScoped<ITeamService, TeamService>();
 
-builder.Services.AddControllers()
-    .AddFluentValidation(x =>
-    {
-        x.RegisterValidatorsFromAssemblyContaining<TeamDtoValidator>();
-        x.RegisterValidatorsFromAssemblyContaining<UserDtoValidator>();
-        x.RegisterValidatorsFromAssemblyContaining<UserProfileValidator>();
-    });
+//JWT Kütüphanesinin Tanıtılması
+//builder.Services.AddSingleton<IJwtAuthenticationManager>(new IJwtAuthenticationManager());
+
+builder.Services.AddControllers().AddFluentValidation(x => { x.RegisterValidatorsFromAssemblyContaining<TeamDtoValidator>(); });
 
 //AddDbContext işlemler
 
